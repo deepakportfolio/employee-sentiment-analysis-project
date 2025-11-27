@@ -1,18 +1,18 @@
 # Employee Sentiment Analysis
 This project applies Natural Language Processing (NLP) and Machine Learning (ML) to employee communication data (test.csv) to uncover sentiment trends, engagement levels, and potential flight risks. By combining statistical analysis with predictive modeling, it demonstrates how text analytics can support HR decision‑making.
 
-🎯 #Objectives
- ##Sentiment Labeling → Classify each message as Positive, Negative, or Neutral
+ # Objectives
+ ## Sentiment Labeling → Classify each message as Positive, Negative, or Neutral
 
- ##Exploratory Data Analysis (EDA) → Visualize sentiment distribution, trends, and anomalies
+ ## Exploratory Data Analysis (EDA) → Visualize sentiment distribution, trends, and anomalies
 
- ##Employee Score Calculation → Compute monthly sentiment scores per employee
+ ## Employee Score Calculation → Compute monthly sentiment scores per employee
 
- ##Employee Ranking → Identify top 3 positive and negative employees each month
+ ## Employee Ranking → Identify top 3 positive and negative employees each month
 
- ##Flight Risk Detection → Flag employees with ≥4 negative messages in a rolling 30‑day window
+ ## Flight Risk Detection → Flag employees with ≥4 negative messages in a rolling 30‑day window
 
- ##Predictive Modeling → Build regression models to forecast sentiment behavior
+ ## Predictive Modeling → Build regression models to forecast sentiment behavior
 
 🧩 Dataset
 File: test.csv
