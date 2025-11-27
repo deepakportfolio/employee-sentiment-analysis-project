@@ -2,7 +2,7 @@
 This project applies Natural Language Processing (NLP) and Machine Learning (ML) to employee communication data (test.csv) to uncover sentiment trends, engagement levels, and potential flight risks. By combining statistical analysis with predictive modeling, it demonstrates how text analytics can support HR decision‑making.
 
  # Objectives
- ## Sentiment Labeling → Classify each message as Positive, Negative, or Neutral
+ ## Sentiment Labeling → #### Classify each message as Positive, Negative, or Neutral
 
  ## Exploratory Data Analysis (EDA) → Visualize sentiment distribution, trends, and anomalies
 
