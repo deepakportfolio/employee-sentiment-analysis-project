@@ -64,5 +64,5 @@ Predict potential retention risks
 
 Support HR with data‑driven strategies
 
-# Author : Deepak A
-# Submission Title: AI Project Submission — Employee Sentiment Analysis
+## Author : Deepak A
+## Submission Title: AI Project Submission — Employee Sentiment Analysis
